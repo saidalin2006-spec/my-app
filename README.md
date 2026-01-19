@@ -8,5 +8,5 @@
 Пользователь может добавлять, редактировать и отмечать выполненные задания.
 
 ## Макет интерфейса
-Макет находится в папке `design` или по ссылке ниже (https://www.figma.com/make/dcDSW37WBqOx4ZsWvxtbxx/Task-Planning-App-Layout?fullscreen=1&t=Hv5PaBtX4Qr2MKdB-1):
+Макет находится в папке `design` или по ссылке ниже (https://www.figma.com/make/knJSIzeIn0MKrRYJTaro2P/Productivity-Planner-App?p=f&t=GFWsjnb5xXxTEXw1-0&fullscreen=1):
 [Посмотреть макет](#)
